@@ -1,0 +1,7 @@
+Next Report 72h → μ = -697.11, σ = 815.01
+Next Report 48h → μ = -451.54, σ = 521.23
+Next Report 24h → μ = -186.17, σ = 310.47
+Next Report 12h → μ = -49.68,  σ = 131.61
+Next Report 6h →  μ  = -24.34, σ = 68.05
+Next Report 2h →  μ  = -17.98, σ = 43.80
+Next Report 0h →  μ  = -9.61,  σ = 20.82
